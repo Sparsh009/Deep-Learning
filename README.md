@@ -1,6 +1,3 @@
-# Deep-Learning
-Neural Network &amp; Deep Learning
-
 # CIFAR-10 Neural Network Architecture
 
 ## Introduction
